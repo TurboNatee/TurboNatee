@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TurboNatee
-- 👀 I’m interested in cars, computers and hacking.
-- 🌱 I’m currently studying Software Development
+- 👀 I’m interested in cars, computers and Cybersecurity.
+- 🌱 I’m currently studying Software Development in MTU.
 
 <!---
 TurboNatee/TurboNatee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
