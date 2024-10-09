@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TurboNatee
+- 👋 Hi, I am Nathan Swanepoel
 - 👀 I’m interested in cars, computers and Cybersecurity.
 - 🌱 I’m currently studying Software Development in MTU.
 
